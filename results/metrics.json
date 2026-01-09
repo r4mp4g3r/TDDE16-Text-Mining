@@ -1,0 +1,10 @@
+{
+  "best_f1": 0.8603,
+  "best_accuracy": 0.8495,
+  "best_recall": 0.873,
+  "best_precision": 0.8479,
+  "best_auc": 0.9166,
+  "training_samples": 32162,
+  "validation_samples": 6955,
+  "test_samples": 6892
+}
